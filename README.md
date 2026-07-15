@@ -48,8 +48,10 @@
 
 ## 举个🌰
 
-每次和ai聊的时候，它会针对性的出题，然后循序渐进的帮助你回答，建立自己的知识网络。
-<img width="1003" height="681" alt="image" src="https://github.com/user-attachments/assets/a9e67561-f974-4a4b-9294-49bcf9362063" />
+每次和ai聊的时候，它会针对性的出题，然后循序渐进的帮助你回答，建立自己的知识网络。如果太难，它会帮你拆解，然后降低难度，浅入深出。
+<img width="1060" height="888" alt="image" src="https://github.com/user-attachments/assets/971f887b-d65b-412a-ba0f-4cb4324fb1ac" />
+<img width="1062" height="976" alt="image" src="https://github.com/user-attachments/assets/f8c72964-cb48-4968-ba89-a1e7f7c68467" />
+
 
 
 
