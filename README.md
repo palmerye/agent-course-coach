@@ -114,3 +114,13 @@ docs/superpowers/
 ## 给课程同学的话
 
 如果你也在跟这门课,欢迎 fork 这个 repo 或只拿走 [`.claude/skills/course-study-coach/`](.claude/skills/course-study-coach/) 这个 skill 放进你自己的学习仓库。skill 本身和课程内容解耦——只要你的学习方式是"每课建目录 + 敲码 + 写 readme.md",它就能用。
+
+## 烧钱数💰💰
+
+| 项 | 值 |
+|---|---|
+| 花费 | $3.00 |
+| 输入 token | 453.2k(含 1.1m cache 命中) |
+| 输出 token | 7.7k |
+
+会不会有热心同学众筹一下 = =
