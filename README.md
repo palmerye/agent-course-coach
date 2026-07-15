@@ -46,6 +46,13 @@
 
 ---
 
+## 举个🌰
+
+每次和ai聊的时候，它会针对性的出题，然后循序渐进的帮助你回答，建立自己的知识网络。
+<img width="1003" height="681" alt="image" src="https://github.com/user-attachments/assets/a9e67561-f974-4a4b-9294-49bcf9362063" />
+
+
+
 ## 这个 skill 怎么来的(TDD for skills,透明可查)
 
 按 superpowers 的 `writing-skills` 铁律:**没有先看到失败,就不知道 skill 该教什么**。所以开发流程是:
