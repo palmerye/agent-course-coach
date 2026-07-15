@@ -8,6 +8,14 @@
 
 ---
 
+## 学习笔记索引
+
+- [L1 AI Agent 开发要学什么？](src/L1/readme.md) — 跑通第一个 LLM 调用
+- [L2 从 Tool 开始：让大模型自动调工具读文件](src/L2/readme.md) — 最小 agent(工具调用 + 循环)
+- [L3 实现 mini cursor：大模型自动调用 tool 执行命令](src/L3/readme.md) — spawn + 4 工具 + agent 循环(多文件)
+
+---
+
 ## 它怎么辅助你(每课 6 步)
 
 对 Claude Code 说 `开始学第 4 课：xxx`,skill 自动启动:
@@ -98,14 +106,6 @@ claude   # 用 Claude Code 打开
 skill 会自动走完上面 6 步。**不需要你额外声明"用 skill"**,识别到"开始学第 N 课"就启动。
 
 > 前置:本仓库的代码用 `@langchain/openai` + dotenv,需在根目录配 `.env`(`API_KEY` / `BASE_URL` / `MODEL_NAME`)。`.env` 已在 `.gitignore`,不会泄露。
-
----
-
-## 学习笔记索引
-
-- [L1 AI Agent 开发要学什么？](src/L1/readme.md) — 跑通第一个 LLM 调用
-- [L2 从 Tool 开始：让大模型自动调工具读文件](src/L2/readme.md) — 最小 agent(工具调用 + 循环)
-- [L3 实现 mini cursor：大模型自动调用 tool 执行命令](src/L3/readme.md) — spawn + 4 工具 + agent 循环(多文件)
 
 ---
 
